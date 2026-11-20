@@ -1,0 +1,13 @@
+# development sources and tooling (not part of the submitted entry)
+__pycache__/
+src_engine.py
+src_small.py
+src_min.py
+src_sq.py
+src_dev_logging.py
+house.py
+pos88.py
+sim.py
+minify.py
+squeeze.py
+rename_map.json
